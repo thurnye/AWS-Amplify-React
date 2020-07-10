@@ -1,11 +1,11 @@
 # AWS-Amplify-React
 
 
-This auth starter implements a basic authentication flow for signing up signing in users as well as protected client side routing using AWS Amplify. Auth features:
+This auth starter implements a basic authentication flow for signing up signing in users as well as protected client side routing using [AWS Amplify] (https://amplify.aws). Auth features:
 
-User sign up,
-User sign in,
--Multi-factor Authentication
+- User sign up,
+- User sign in,
+- Multi-factor Authentication
 
 
 # How to RUN LOCALLY
@@ -21,7 +21,7 @@ Install & configure the AWS Amplify CLI.
 npm install -g @aws-amplify/cli
 
 amplify configure
-To see a video of how to configure the CLI, click here
+To see a video of how to configure the CLI, click  [here](https://www.youtube.com/watch?v=fWbM5DLh25U)
 
 Create a new AWS Amplify Project
 amplify init
