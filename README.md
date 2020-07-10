@@ -3,12 +3,12 @@
 
 This auth starter implements a basic authentication flow for signing up signing in users as well as protected client side routing using AWS Amplify. Auth features:
 
--User sign up
--User sign in
+User sign up,
+User sign in,
 -Multi-factor Authentication
 
 
-How to RUN LOCALLY
+# How to RUN LOCALLY
 Create the project
 git clone https://github.com/thurnye/AWS-Amplify-React.git
 Change into the new directory
