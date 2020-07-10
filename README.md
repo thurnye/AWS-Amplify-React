@@ -25,7 +25,7 @@ cd AWS-Amplify-React
 yarn
 # or
 npm install
-```l
+```
 
 4. Install & configure the AWS Amplify CLI.
 
